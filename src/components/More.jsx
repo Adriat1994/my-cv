@@ -9,10 +9,7 @@ const More = ( more ) => {
                 {more.languages.map((item) => {
                     return (
                         <div key={JSON.stringify(item)}>
-                            <p>{item.language}</p>                            
-                            <p>{item.wrlevel}</p>
-                            <p>{item.splevel}</p>
-                            <br></br>
+                            <p>{item.language}</p>
                         </div>
                     );
                 })}

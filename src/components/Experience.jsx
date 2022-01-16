@@ -9,7 +9,7 @@ const Experience = ({ experience }) => {
                 {experience.map((item) => {
                     return (
                         <div key={JSON.stringify(item)}>
-                            <p className="name">{item.name}</p>
+                            <p className="title">{item.name}</p>
                             <p>{item.where}</p>
                             <p>{item.date}</p>
                             <p>{item.description}</p>
