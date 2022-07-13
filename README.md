@@ -3,10 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
   ## Descripción
-Siguiendo el curso de Fernando Herrera en Udemy he podido crear una pequeña aplicación en React que permite buscar tus gifs favoritos.
-La aplicación cuenta con hooks como useState, useEffect y un customhook. También cuenta con props y comunicación entre componentes.
-Atacamos a la API de GIPHY, mostrándonos hasta 20 gifs relacionados con nuestra búsqueda.
-También he realizado varios test a los componentes y hooks de la aplicación mediante jest.
+Primer proyecto de React para tomar un poco de contacto. Elaboramos un CV a partir de nuestros datos. 
+Utilizamos un useState para manejar el estado y mostrar de forma separada nuestra experiencia o nuestros estudios, haciendo que nuestro CV sea un poco más visual.
 
 Después de clonar el proyecto, ejecutar el siguiente comando para instalar las dependencias:
  - npm install
