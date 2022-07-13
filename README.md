@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Proyecto crear un CV en React
 
 Proyecto de react sobre como crear un CV
 
@@ -12,7 +12,7 @@ Para iniciar el proyecto ejecutar el comando:
   - npm run dev
 
   ## URL para ver el resultado
-Para ver el proyecto en directo puedes verlo aquí ()
+Para ver el proyecto en directo puedes verlo aquí (https://proyecto-cv-adrian-torres.netlify.app/)
 
 
   ## Autor ✒️
