@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto de react sobre como crear un CV
 
   ## Descripción
 Primer proyecto de React para tomar un poco de contacto. Elaboramos un CV a partir de nuestros datos. 
